@@ -12,7 +12,7 @@
 
 <div align="center">
   <div aling="right">
-    <img align="" width="270" height="160" src="https://media.tenor.com/wxaQ78WDEREAAAAM/guts-berserk-banner.gif"  />
+    <img align="" width="270" height="160" src="https://media1.tenor.com/m/piNPRx-vcLoAAAAd/klein-moretti-the-fool.gif"  />
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,adonis,mysql,mongodb,docker,prisma,git,supabase&perline=5" />
   </div>
   
