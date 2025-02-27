@@ -21,3 +21,16 @@
 <div align="center">
 <img width=70% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=120&section=footer&fontColor=6474B9&animation=twinkling&fontAlignY=65"/>
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KayoFontesLunga/KayoFontesLunga/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KayoFontesLunga/KayoFontesLunga/output/github-snake.svg" />
+  <img width="1600" height="125" alt="github-snake" src="https://raw.githubusercontent.com/KayoFontesLunga/KayoFontesLunga/output/github-snake.svg" />
+</picture>
+
+###
+<div align="center">
+<img width=70% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=120&section=footer&fontColor=6474B9&animation=twinkling&fontAlignY=65"/>
+</div>
